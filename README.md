@@ -139,7 +139,8 @@ This dashboard helps businesses understand:
 These insights can help improve **inventory planning, market expansion, and sales strategy**.
 
 ---
-
+ For Interactive Dashboard
+ Link - https://public.tableau.com/app/profile/gnana.jeevana/viz/BlinkitDashboardProject_17731265023730/BlinkitDashboard
 ## Author
 
 Kasi Gnana Jeevana
